@@ -1,0 +1,9 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AndroidStudioProjects\2019_0212_Lancet-Hosptial-Doctor-Android-3.0\js-bridge-compiler\src\main\AndroidManifest.xml:1:1-6:12
+	package
+		ADDED from D:\AndroidStudioProjects\2019_0212_Lancet-Hosptial-Doctor-Android-3.0\js-bridge-compiler\src\main\AndroidManifest.xml:2:5-41
+	xmlns:android
+		ADDED from D:\AndroidStudioProjects\2019_0212_Lancet-Hosptial-Doctor-Android-3.0\js-bridge-compiler\src\main\AndroidManifest.xml:1:11-69
+application
+ADDED from D:\AndroidStudioProjects\2019_0212_Lancet-Hosptial-Doctor-Android-3.0\js-bridge-compiler\src\main\AndroidManifest.xml:4:3-5:17
